@@ -1,4 +1,6 @@
-# Portuguese Education System
+# Portuguese Degree and Education System
+
+---
 
 ### 3.º Ciclo do Ensino Básico - Currículo Obrigatório (7.º - 9.º Ano)
 

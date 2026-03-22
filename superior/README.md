@@ -1,4 +1,6 @@
-# Portuguese Education System
+# Portuguese Degree and Education System
+
+---
 
 ### Ensino Superior: 3-6 anos 
 

@@ -1,4 +1,6 @@
-# Portuguese Education System
+# Portuguese Degree and Education System
+
+---
 
 ### Ensino Secundário: 10º ao 12º Ano
 
