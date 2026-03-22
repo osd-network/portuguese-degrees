@@ -2,8 +2,8 @@
 
 **Referência normativa:**
 
-- AE de Ciências Naturais — 7.º, 8.º e 9.º anos (Despacho n.º 6944-A/2018; consolidado pelo Despacho n.º 6605-A/2021)
-- AE de Físico-Química — 7.º, 8.º e 9.º anos (Despacho n.º 6944-A/2018; consolidado pelo Despacho n.º 6605-A/2021)
+- AE de Ciências Naturais - 7.º, 8.º e 9.º anos (Despacho n.º 6944-A/2018; consolidado pelo Despacho n.º 6605-A/2021)
+- AE de Físico-Química - 7.º, 8.º e 9.º anos (Despacho n.º 6944-A/2018; consolidado pelo Despacho n.º 6605-A/2021)
 
 **Carga horária:** 270 min/semana total (CN + FQ), partilhada entre as duas disciplinas; referência de 3 tempos (45 min) cada por semana; 1 tempo em desdobramento para trabalho laboratorial.
 
