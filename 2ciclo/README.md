@@ -1,4 +1,6 @@
-# Portuguese Education System
+# Portuguese Degree and Education System
+
+---
 
 ## 2.º Ciclo do Ensino Básico - Currículo Obrigatório (5.º - 6.º Ano)
 
@@ -58,6 +60,12 @@ Capacidades transversais: Resolução de Problemas, Raciocínio Matemático, Pen
 expressões algébricas simples; figuras planas (áreas e perímetros); dados - frequências e gráficos
 - **6.º ano:** Inteiros negativos; proporção e razão; equações lineares do 1.º grau; semelhanças de triângulos;
 volumes de prismas e cilindros; média, moda e mediana
+
+
+
+### Português
+
+
 
 ### Ciências Naturais (AE - Despacho n.º 6605-A/2021)
 

@@ -1,4 +1,6 @@
-# Portuguese Education System
+# Portuguese Degree and Education System
+
+---
 
 ### 1.º Ciclo do Ensino Básico - Currículo Obrigatório (1.º - 4.º Ano)
 
@@ -44,16 +46,7 @@
 - **3.º ano:** Naturais até 1 000 000; divisão; frações; decimais; perímetros; áreas
 - **4.º ano:** Operações com racionais; múltiplos e divisores; amplitudes de ângulos; coordenadas; tratamento de dados
 
-#### Estudo do Meio (Ciências integradas)
-
-- **1.º - 2.º ano:** O ser humano e a saúde; a família e comunidade; animais e plantas locais; passado próximo
-- **3.º - 4.º ano:** O corpo humano (órgãos, sistemas); ecossistemas locais; estados da matéria; eletricidade básica; Portugal - história e geografia elementar
-
 #### Português
 
 - Leitura e escrita; gramática; expressão oral; compreensão do oral; educação literária
-
-#### Inglês (3.º e 4.º ano)
-
-- Vocabulário básico; compreensão oral; interação simples; introdução à escrita
 
